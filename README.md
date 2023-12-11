@@ -5,7 +5,7 @@ Welcome to Java Wars, an open-source project that values your contributions. Whe
 ## How to Contribute
 
 1. **Fork the Repository:**
-   - Fork the [Java Wars repository](https://github.com/yourusername/java-wars) on GitHub.
+   - Fork the [Java Wars repository](https://github.com/Blackie360/java-wars) on GitHub.
    - Click the "Fork" button in the upper right corner of the repository page.
 
 2. **Create a New Branch:**
@@ -18,7 +18,7 @@ Welcome to Java Wars, an open-source project that values your contributions. Whe
 
 4. **Submit a Pull Request:**
    - Commit your changes and push the branch to your forked repository.
-   - Open a pull request (PR) to the [Java Wars repository](https://github.com/yourusername/java-wars).
+   - Open a pull request (PR) to the [Java Wars repository](https://github.com/Blackie360/java-wars).
    - Provide a clear title and description for your PR.
 
 5. **Engage with the Community:**
@@ -27,7 +27,7 @@ Welcome to Java Wars, an open-source project that values your contributions. Whe
    - Collaborate with others to improve the quality of your contribution.
 
 ## Java Image
-![Java Logo](https://www.example.com/java-logo.png)
+![Java Logo](https://logos-download.com/wp-content/uploads/2016/10/Java_logo-414x700.png)
 
 ## Code of Conduct
 
