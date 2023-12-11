@@ -26,6 +26,9 @@ Welcome to Java Wars, an open-source project that values your contributions. Whe
    - Be open to feedback and be responsive to comments.
    - Collaborate with others to improve the quality of your contribution.
 
+## Java Image
+![Java Logo](https://www.example.com/java-logo.png)
+
 ## Code of Conduct
 
 Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a respectful and inclusive environment for everyone.
